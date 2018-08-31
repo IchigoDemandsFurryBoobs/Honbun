@@ -1,6 +1,7 @@
 -- Honbun (本文) Visual Novel Engine
 -- By: Radfordhound
-
+	return
+	love.graphics.print("69", 4, 70)
 -- Variables
 local lockX, lockY, scaling = false, false, false
 local isTyping = false
